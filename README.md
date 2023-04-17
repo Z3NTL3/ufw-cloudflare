@@ -3,3 +3,4 @@ Automated script which blocks all incoming requests and only accepts Cloudflare 
 
 # Requirements
 ```pip3 install httpx```
+Run as ``sudo``
